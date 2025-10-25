@@ -1,4 +1,4 @@
-# Global Monkeypox Outbreak Clustering and Visualization using K-Means
+# Global Monkeypox Outbreak Clustering and Visualization using K-Means Clustering
 
 ## Overview
 
