@@ -6,6 +6,11 @@ This project explores **global Monkeypox outbreak patterns** using the **K-Means
 The analysis draws from publicly available data on **confirmed cases**, **deaths**, and **previous exposure history**, aiming to uncover regional similarities and global clustering trends.  
 
 Through the use of **unsupervised machine learning** and **interactive visualizations** (via Plotly and Seaborn), this project highlights how clustering can help inform public health monitoring, outbreak preparedness, and data-driven decision-making.
+--
+
+>  **View the full interactive notebook here:**  
+> [ Open in NBViewer](https://nbviewer.org/github/BrentOchieng/Unsupervised-Learning-Analysis-of-Global-Monkeypox-Outbreaks-using-K-Means/blob/main/Clustering_Monkeypox_Outbreak_Patterns_Across_the_Countries_Using_K_Means_Algorithm.ipynb)
+
 
 ---
 
